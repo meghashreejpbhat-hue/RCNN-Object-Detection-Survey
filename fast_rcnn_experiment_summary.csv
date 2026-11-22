@@ -1,0 +1,2 @@
+model,backbone,device,image,image_width,image_height,selective_search_proposals,rois_processed,feature_map_channels,feature_map_height,feature_map_width,roi_pool_size,pooled_tensor_shape,classification_output_shape,bbox_output_shape,measured_total_feature_pooling_ms,amortized_time_per_roi_ms,trained_detection_heads,detection_accuracy_evaluated
+Fast R-CNN (simplified demonstration),VGG16,CPU,bus.jpg,810,1080,9333,100,512,33,25,7,100x512x7x7,100x21,100x4,12804.36,128.04,False,False
